@@ -38,7 +38,7 @@
           <!-- /.col -->
           <div class="col-12">
             <button type="submit" name="press" class="btn btn-primary btn-block">SUBMIT</button><br>
-            <a href="list.php">List of Products</a>
+            <a href="list.php">List Products</a>
           </div>
           <!-- /.col -->
         </div>
