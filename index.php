@@ -34,11 +34,20 @@
             </div>
           </div>
         </div>
+        
         <div class="row">
           <!-- /.col -->
           <div class="col-12">
             <button type="submit" name="press" class="btn btn-primary btn-block">SUBMIT</button><br>
-            <a href="list.php">List Products</a>
+            <a href="list.php"><button type="button" class="btn btn-warning"><i class="fa fa-list"></i> List Products </button></a>
+          </div>
+          <!-- /.col -->
+        </div>
+        <br>
+        <div class="row">
+          <!-- /.col -->
+          <div class="col-12">
+            <b><u>Example Accepted Link from Fabelio : </u></b><br>https://fabelio.com/ip/fabelio-cloud-latex-mattress?bed_size=78
           </div>
           <!-- /.col -->
         </div>
